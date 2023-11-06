@@ -10,7 +10,7 @@ I created this game by following the "Python Crash Course" book and the result i
 > In Legolas' Last Stand, the player controls Legolas himself who appears at
 the bottom center of the screen. The player can move Legolas
 right and left using the arrow keys and shoot arrows using the
-spacebar. When the game begins, a horde of orcs fills advance upon Legolas
+spacebar. When the game begins, a horde of orcs advance upon Legolas
 and moves across and down the screen. The player shoots and
 destroys the orcs. If the player shoots all the orcs, a fresh horde
 appears that moves faster than the previous horde. If any orcs hits
