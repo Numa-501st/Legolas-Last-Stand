@@ -3,7 +3,7 @@
 </div>
 
 # 🏹 Legolas' Last Stand
-Legolas' Last Stand is a original idea influenced by the popular arcade game "Alien Invasion."
+Legolas' Last Stand is an original idea influenced by the popular arcade game "Alien Invasion."
 I created this game by following the "Python Crash Course" book and the result is my attempt.  
 
 ## ⚔ Introduction
