@@ -11,7 +11,7 @@ class Orc(Sprite):
         self.settings = lls_game.settings
 
         # Load the orc image and set its rect attribute.
-        self.image = pygame.image.load("/home/enuma/Documents/PythonWork/Projects/legolas_last_stand/images/orc.bmp")
+        self.image = pygame.image.load("images/orc.bmp")
         self.rect = self.image.get_rect()
 
         # Start each new orc near the top left of the screen.
